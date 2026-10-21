@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/staged-ore-comminution-circuit-explainer/
 
+Repository: https://github.com/mizcausevic-dev/staged-ore-comminution-circuit-explainer
+
 ## What this is
 
 An interactive anatomy plate for Staged Ore Comminution Circuit. Play, scrub, or jump the five stages. The same frame always draws the same picture.
